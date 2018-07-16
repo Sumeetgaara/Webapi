@@ -1,0 +1,11 @@
+C:\Users\Sneha More\source\repos\coreapi\coreapi\bin\Debug\netcoreapp2.0\coreapi.deps.json
+C:\Users\Sneha More\source\repos\coreapi\coreapi\bin\Debug\netcoreapp2.0\coreapi.runtimeconfig.json
+C:\Users\Sneha More\source\repos\coreapi\coreapi\bin\Debug\netcoreapp2.0\coreapi.runtimeconfig.dev.json
+C:\Users\Sneha More\source\repos\coreapi\coreapi\bin\Debug\netcoreapp2.0\coreapi.dll
+C:\Users\Sneha More\source\repos\coreapi\coreapi\bin\Debug\netcoreapp2.0\coreapi.pdb
+C:\Users\Sneha More\source\repos\coreapi\coreapi\obj\Debug\netcoreapp2.0\coreapi.csprojAssemblyReference.cache
+C:\Users\Sneha More\source\repos\coreapi\coreapi\obj\Debug\netcoreapp2.0\coreapi.csproj.CoreCompileInputs.cache
+C:\Users\Sneha More\source\repos\coreapi\coreapi\obj\Debug\netcoreapp2.0\coreapi.AssemblyInfoInputs.cache
+C:\Users\Sneha More\source\repos\coreapi\coreapi\obj\Debug\netcoreapp2.0\coreapi.AssemblyInfo.cs
+C:\Users\Sneha More\source\repos\coreapi\coreapi\obj\Debug\netcoreapp2.0\coreapi.dll
+C:\Users\Sneha More\source\repos\coreapi\coreapi\obj\Debug\netcoreapp2.0\coreapi.pdb
