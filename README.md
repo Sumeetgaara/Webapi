@@ -4,7 +4,7 @@ Good way to understand how .NET CORE is different compared to standard .NET is t
 
 Followings things I noticed during development.
 
-1. **Dependency Injection(DI)**:DI is baked in and heavily used in ASP.NET CORE is good since it will provide loose coupling.I think you can still use third party DI containers.
+1. **Dependency Injection(DI)**:DI is baked in and heavily used in ASP.NET CORE.It is good since it will provide loose coupling.I think you can still use third party DI containers.
 
 2. **Middleware and HTTP pipeline**: Middle ware is new concept introduced in .NET world.
 Standard definition from MSDN website(ASP.NET Core Middleware (https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-2.1&tabs=aspnetcore2x)):
